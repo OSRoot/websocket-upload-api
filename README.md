@@ -1,2 +1,2 @@
-# websocket-upload-api
-Separate Api for managing websockets and uploading files
+# websocket-upload-Services
+- For managing websockets and uploading files
